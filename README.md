@@ -16,7 +16,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
       3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 My Dashboard:
-        Given in issues.
+        Given in issues(use Power BI desktop).
 
 #Conclusion:
        1. This dashboard helps the stakeholder to make better decisions. 
