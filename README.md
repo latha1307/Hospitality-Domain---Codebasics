@@ -19,4 +19,8 @@ My Dashboard:
         Given in issues.
 
 #Conclusion:
+       1. This dashboard helps the stakeholder to make better decisions. 
+       2. Since, the ADR is constant[from the dashboard] shows that the hotel has major problem on fixed pricing. Solution for this problem is the hotel can use either dynamic pricing or weekday weekend pricing, probably this may help the organization  to get more revenue.
+       3. To increase the occupancy% of the hotels, they should increase their average rating by providing a better atmosphere and good customer service to their customers.
+       4. The hotels should implement essential pricing, discount coupons and increase promotions on their own website, in order to help the major issue i.e. Fixed pricing.  
          
